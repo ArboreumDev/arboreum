@@ -10,12 +10,18 @@ const DivContainer = styled.div`
   margin: 0 auto;
   max-width: 1440px;
   padding: 80px 20px 100px 20px;
+  @media (max-width: 420px) {
+    padding-bottom: 50px;
+  }
 `;
 
 const TitleContainer = styled.div`
   margin: 0 auto 75px auto;
   text-align: center;
   max-width: 720px;
+  @media (max-width: 420px) {
+    margin-bottom: 25px;
+  }
 `;
 
 const LogoImage = styled.img`
@@ -31,17 +37,18 @@ const IconConatiner = styled.div`
 `;
 
 const CardContainer = styled.div`
-  margin: 25px auto 50px auto;
+  margin: 0px auto 50px auto;
   display: flex;
   justify-content: space-between;
   align-items: stretch;
   min-width: 320px;
   flex: 1 1 100%;
+  flex-wrap: wrap;
   max-width: 960px;
 `;
 
 const Card = styled.div`
-  flex: 0 1 calc(50% - 25px);
+  margin-top: 25px;
   max-width: 460px;
   font-size: 20px;
 `;
@@ -75,7 +82,7 @@ const CardTitle = styled.div`
 `;
 
 const Map: React.FunctionComponent<{}> = () => {
-  // eslint-disable-next-line 
+  // eslint-disable-next-line
   const [windowWidthValue, setWindowWidthValue] = useState(window.innerWidth);
   window.onresize = () => {
     setWindowWidthValue(window.innerWidth);
@@ -88,11 +95,11 @@ const Map: React.FunctionComponent<{}> = () => {
       <TitleContainer>
         <h1>Introducing the world’s first fractal lending technology.</h1>
         <h3>
-          Our technology de-risks loans by spreading principal 
-          across networks of trusted lenders, enabling both
-          safer lending and more affordable borrowing.
+          Our technology de-risks loans by spreading principal across networks
+          of trusted lenders, enabling both safer lending and more affordable
+          borrowing.
           <p></p>
-          Arboreum networks are built on the basis of societal trust, making 
+          Arboreum networks are built on the basis of societal trust, making
           credit access possible even for the financially underserved.
         </h3>
       </TitleContainer>
@@ -121,8 +128,8 @@ const Map: React.FunctionComponent<{}> = () => {
             <CardContent>
               <CardTitle align="left">Whitepaper</CardTitle>
               <P>
-                Learn more about the technical concepts and details
-                that power our solution. [<i>Evolving Document</i>]
+                Learn more about the technical concepts and details that power
+                our solution. [<i>Evolving Document</i>]
               </P>
             </CardContent>
           </a>

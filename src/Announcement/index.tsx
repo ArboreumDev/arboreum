@@ -20,7 +20,7 @@ const Div = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 20px 0;
+  padding: 20px;
   background-color: #1a2943;
 `;
 

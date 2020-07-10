@@ -2,7 +2,7 @@ import React from "react";
 import styled from "styled-components";
 
 const DivContainer = styled.div`
-  flex: 0 0 100%;
+  flex-shrink: 1;
   max-width: 384px;
   background-color: #fff;
   margin: 0 auto;

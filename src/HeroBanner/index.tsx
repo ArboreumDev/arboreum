@@ -30,7 +30,7 @@ const DivContainer = styled.div<BGProps>`
 `;
 
 const TextContainer = styled.div`
-  margin: 0 40px 0 0;
+  margin: 0 20px;
 `;
 
 /* 
@@ -151,7 +151,8 @@ const Map: React.FunctionComponent<{}> = () => {
             <H1>Making Credit Accessible For All</H1>
             <Motif fillColor="#fff" />
             <H3>
-              Arboreum is building the future of credit for the digital economy via AI-driven network-based lending technology.
+              Arboreum is building the future of credit for the digital economy
+              via AI-driven network-based lending technology.
             </H3>
           </TextContainer>
         </DivContainer>

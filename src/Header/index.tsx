@@ -25,6 +25,9 @@ const LogoImage = styled.img`
   width: auto;
   cursor: pointer;
   margin: 0 20px;
+  @media (max-width: 420px) {
+    height: 25px;
+  }
 `;
 
 const NavContainer = styled.div`
@@ -59,6 +62,10 @@ const Button = styled.div`
   &:hover {
     color: #fff;
     background-color: #ed135a;
+  }
+  @media (max-width: 420px) {
+    padding: 10px;
+    font-size: 14px;
   }
 `;
 
