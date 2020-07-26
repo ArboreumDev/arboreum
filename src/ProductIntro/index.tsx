@@ -121,15 +121,14 @@ const Map: React.FunctionComponent<{}> = () => {
         </Card>
         <Card>
           <a
-            href="./assets/pdfFiles/WhitePaper.pdf"
+            href="./assets/pdfFiles/Arboreum_Whitepaper_v0.1.7.pdf"
             target="_blank"
             rel="noopener noreferrer"
           >
             <CardContent>
               <CardTitle align="left">Whitepaper</CardTitle>
               <P>
-                Learn more about the technical concepts and details that power
-                our solution. [<i>Evolving Document</i>]
+                Learn more about the concepts that power our solution. [<i>Evolving Document Pending Pilot Data</i>]
               </P>
             </CardContent>
           </a>

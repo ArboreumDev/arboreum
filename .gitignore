@@ -23,3 +23,10 @@ yarn-debug.log*
 yarn-error.log*
 package-lock.json
 package-lock.json
+.vs/VSWorkspaceState.json
+.vs/ProjectSettings.json
+package-lock.json
+.vs/slnx.sqlite
+package-lock.json
+.vs/website/v16/.suo
+package-lock.json
