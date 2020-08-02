@@ -95,12 +95,9 @@ const Map: React.FunctionComponent<{}> = () => {
       <TitleContainer>
         <h1>Introducing the world’s first fractal lending technology.</h1>
         <h3>
-          Our technology de-risks loans by spreading principal across networks
-          of trusted lenders, enabling both safer lending and more affordable
-          borrowing.
+          Our technology enables next gen peer to peer lending inside trust-based networks. Arboreum lenders are derisked through our cutting edge portfolio optimization AI. 
           <p></p>
-          Arboreum networks are built on the basis of societal trust, making
-          credit access possible even for the financially underserved.
+          Arboreum borrowers bring supporters who co-lend to them, using their societal trust to create credit access for the financially underserved
         </h3>
       </TitleContainer>
       <CardContainer>
@@ -128,7 +125,7 @@ const Map: React.FunctionComponent<{}> = () => {
             <CardContent>
               <CardTitle align="left">Whitepaper</CardTitle>
               <P>
-                Learn more about the concepts that power our solution. [<i>Evolving Document Pending Pilot Data</i>]
+                Learn more about the concepts that power our solution. 
               </P>
             </CardContent>
           </a>
