@@ -123,7 +123,7 @@ const Map: React.FunctionComponent<{}> = () => {
             rel="noopener noreferrer"
           >
             <CardContent>
-              <CardTitle align="left">Whitepaper</CardTitle>
+              <CardTitle align="left">Request Whitepaper</CardTitle>
               <P>
                 Learn more about the concepts that power our solution. 
               </P>
