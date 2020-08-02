@@ -5,7 +5,7 @@
   },
   {
     "title": "Strong repayment mechanism",
-    "description": "As borrower's direct trustors are most heavily exposed to a loan, there are significant social barriers to defaulting.",
+    "description": "As borrower's supporters are most heavily exposed to a loan, there are significant social barriers to defaulting.",
     "icon": "./assets/imgs/featureIcons/feature2.svg"
   },
   {
@@ -19,8 +19,8 @@
     "icon": "./assets/imgs/featureIcons/feature4.svg"
   },
   {
-    "title": "Highly secured loans",
-    "description": "A borrower's network acts as a set of guarantors, and guarantors can increase collateral to further distribute loan principal.",
+    "title": "Enables credit identity",
+    "description": "Formalizing informal lending behaviour enables creation of credit identity for borrowers excluded by traditional financial institutions.",
     "icon": "./assets/imgs/featureIcons/feature5.svg"
   },
   {
