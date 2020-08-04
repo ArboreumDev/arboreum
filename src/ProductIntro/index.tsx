@@ -93,11 +93,11 @@ const Map: React.FunctionComponent<{}> = () => {
         <LogoImage src={Icon} alt="Fractal Lending Icon" />
       </IconConatiner>
       <TitleContainer>
-        <h1>Introducing the world’s first fractal lending technology.</h1>
+        <h1>Introducing next gen peer to peer lending</h1>
         <h3>
-          Our technology enables next gen peer to peer lending inside trust-based networks. Arboreum lenders are derisked through our cutting edge portfolio optimization AI. 
+          We build and manage credit networks of lenders, borrowers, and trusting supporters 
           <p></p>
-          Arboreum borrowers bring supporters who co-lend to them, using their societal trust to create credit access for the financially underserved
+          Lenders are derisked through our cutting edge portfolio optimization AI. Borrowers bring supporters who co-lend, using societal trust to create credit access.
         </h3>
       </TitleContainer>
       <CardContainer>
