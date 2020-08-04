@@ -56,7 +56,7 @@ const Map: React.FunctionComponent<{}> = () => {
           <h1>Partnerships</h1>
           <h3>
             We partner with lending institutions, businesses, and financial
-            inclusion NGOs to provide a wide, customisable range of digitised
+            inclusion NGOs to build and manage digitised
             credit inclusion platforms serving - for example - customers, supply
             chain SMEs, and employees.
             <br />
