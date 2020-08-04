@@ -1,11 +1,11 @@
 [{
-        "title": "Guarantor Networks",
-        "description": "Provide safer, larger institutional loans by building networks that act as guarantors for borrowers.",
+        "title": "For Peer to Peer platforms",
+        "description": "Improved risk management of lender portfolios, allowing riskier borrowers to be included",
         "image": "./assets/imgs/partnershipImages/01.png"
     },
     {
-        "title": "Co-lender Networks",
-        "description": "De-risk institutional lending by building networks that act as guarantors and provide partial loan principal.",
+        "title": "For Employers of frontline and factory workers",
+        "description": "Standalone employee-only credit unions, allowing safe lending and borrowing",
         "image": "./assets/imgs/partnershipImages/02.png"
     },
     {
