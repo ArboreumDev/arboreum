@@ -1,16 +1,16 @@
 [{
-        "title": "For Peer to Peer platforms",
-        "description": "Improved risk management of lender portfolios, allowing riskier borrowers to be included",
+        "title": "For P2P platforms",
+        "description": "Arboreum AI improves risk management of lender portfolios, allowing inclusion of riskier borrowers",
         "image": "./assets/imgs/partnershipImages/01.png"
     },
     {
-        "title": "For Employers of frontline and factory workers",
-        "description": "Standalone employee-only credit unions, allowing safe lending and borrowing",
+        "title": "For Employers",
+        "description": "Arboreum builds and manages company-only credit unions, creating an additional benefit for colleagues",
         "image": "./assets/imgs/partnershipImages/02.png"
     },
     {
-        "title": "Independent Networks",
-        "description": "Set up independent networks of communities that wholly lend to and borrow from each other.",
+        "title": "For Pro-Social Investors",
+        "description": "Arboreum invests your funds in financially underserved communities; e.g. farmers, cleaners, etc",
         "image": "./assets/imgs/partnershipImages/03.png"
     }
 ]
