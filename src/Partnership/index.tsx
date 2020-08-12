@@ -55,10 +55,8 @@ const Map: React.FunctionComponent<{}> = () => {
         <TitleContainer>
           <h1>Partnerships</h1>
           <h3>
-            We partner with lending institutions, businesses, and financial
-            inclusion NGOs to build and manage digitised
-            credit inclusion platforms serving - for example - customers, supply
-            chain SMEs, and employees.
+            We partner with businesses and NGOs to build independent credit networks in pre-existing communities. If external funding is needed, we arrange it through our panel of pro-social investors
+         
             <br />
             <br />
             Example applications of our technology include:
