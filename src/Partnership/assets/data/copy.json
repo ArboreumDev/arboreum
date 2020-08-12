@@ -5,12 +5,12 @@
     },
     {
         "title": "For Employers",
-        "description": "Arboreum builds and manages company-only credit unions, creating an additional benefit for colleagues",
+        "description": "Arboreum builds and manages company-only credit unions of lenders, borrowers, and supporters, creating a loan benefit for employees",
         "image": "./assets/imgs/partnershipImages/02.png"
     },
     {
-        "title": "For Pro-Social Investors",
-        "description": "Arboreum invests your funds in financially underserved communities; e.g. farmers, cleaners, etc",
+        "title": "For Pro Social Investors",
+        "description": "Arboreum invests your funds in low income communities; e.g. farmers, cleaners, consisting of borrowers and supporters",
         "image": "./assets/imgs/partnershipImages/03.png"
     }
 ]
