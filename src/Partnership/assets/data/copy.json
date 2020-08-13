@@ -1,16 +1,22 @@
 [{
         "title": "For P2P platforms",
-        "description": "Arboreum AI improves risk management of lender portfolios, allowing inclusion of riskier borrowers",
-        "image": "./assets/imgs/partnershipImages/01.png"
+        "description": "Arboreum AI improves risk management of lender portfolios, allowing for the inclusion of riskier borrowers into your network",
+        "image": "./assets/imgs/partnershipImages/01.png",
+        "buttontext": "Join The Waitlist",
+        "url": "mailto:enquiries@arboreum.dev?subject=P2P Platform Integration Query"
     },
     {
         "title": "For Employers",
         "description": "Arboreum builds and manages company-only credit unions of lenders, borrowers, and supporters, creating a loan benefit for employees",
-        "image": "./assets/imgs/partnershipImages/02.png"
+        "image": "./assets/imgs/partnershipImages/02.png",
+        "buttontext": "Join The Waitlist",
+        "url": "https://nupur587364.typeform.com/to/UtX2856q"
     },
     {
         "title": "For Pro Social Investors",
-        "description": "Arboreum invests your funds in low income communities; e.g. farmers, cleaners, consisting of borrowers and supporters",
-        "image": "./assets/imgs/partnershipImages/03.png"
+        "description": "Arboreum invests your funds in low income communities; e.g. farmers and cleaners, consisting of borrowers and supporters",
+        "image": "./assets/imgs/partnershipImages/03.png",
+        "buttontext": "Join The Waitlist",
+        "url": "https://nupur587364.typeform.com/to/RDHPrrzY"
     }
 ]

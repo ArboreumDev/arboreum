@@ -95,15 +95,14 @@ const Map: React.FunctionComponent<{}> = () => {
       <TitleContainer>
         <h1>Societal trust at the heart of our risk assessment approach</h1>
         <h3>
-          We build and manage credit networks of lenders, borrowers, and trusting supporters
-          <p></p>
-          Our technology mitigates risk for investors while leveraging supporter trust to improve credit access for borrowers
+          We build and manage credit networks of lenders, borrowers, and trusting supporters.
+          Our technology mitigates risk for lenders whilst leveraging supporter trust to improve credit access for borrowers.
         </h3>
       </TitleContainer>
       <CardContainer>
         <Card>
           <a
-            href="mailto:enquiries@arboreum.dev"
+            href="mailto:enquiries@arboreum.dev?subject=Arboreum Pitchdeck Request"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -118,14 +117,14 @@ const Map: React.FunctionComponent<{}> = () => {
         </Card>
         <Card>
           <a
-            href="./assets/pdfFiles/Arboreum_Whitepaper_v0.1.7.pdf"
+            href="mailto:enquiries@arboreum.dev?subject=Arboreum Whitepaper Request"
             target="_blank"
             rel="noopener noreferrer"
           >
             <CardContent>
               <CardTitle align="left">Request Whitepaper</CardTitle>
               <P>
-                Learn more about the concepts that power our solution
+                Learn more about the underlying mathematical concepts that power our solution
               </P>
             </CardContent>
           </a>

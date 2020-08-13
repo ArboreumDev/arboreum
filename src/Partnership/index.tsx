@@ -7,6 +7,8 @@ interface partner {
   title: string;
   image: string;
   description: string;
+  buttontext: string;
+  url: string;
   partnerLogo?: [];
 }
 
@@ -46,6 +48,8 @@ const Map: React.FunctionComponent<{}> = () => {
         title={d.title}
         description={d.description}
         image={d.image}
+        buttontext={d.buttontext}
+        url={d.url}
       />
     );
   });
@@ -53,9 +57,9 @@ const Map: React.FunctionComponent<{}> = () => {
     <HowItworksContainer>
       <DivContainer>
         <TitleContainer>
-          <h1>Partnerships</h1>
+          <h1>Products</h1>
           <h3>
-            We partner with businesses and NGOs to build independent credit networks in pre-existing communities. If external funding is needed, we arrange it through our panel of pro-social investors
+            We partner with businesses and NGOs to build independent credit networks in pre-existing communities. If external funding is needed, we arrange it through our panel of pro-social investors.
          
             <br />
             <br />

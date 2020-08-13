@@ -99,7 +99,7 @@ const Map: React.FunctionComponent<{}> = () => {
         <H2>Ready to partner with us?</H2>
         <H3>Get in touch to find out how we can help you.</H3>
         <a
-          href="mailto:enquiries@arboreum.dev"
+          href="mailto:enquiries@arboreum.dev?subject=Getting In Touch With Arboreum"
           target="_blank"
           rel="noopener noreferrer"
         >

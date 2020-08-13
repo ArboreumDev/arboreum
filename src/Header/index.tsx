@@ -82,13 +82,13 @@ const Map: React.FunctionComponent<{}> = () => {
         />
         <NavContainer>
           <Link to="section1" spy={true} smooth={true} duration={500}>
-            Product
+            About
           </Link>
           <Link to="section2" spy={true} smooth={true} duration={500}>
             Features
           </Link>
           <Link to="section3" spy={true} smooth={true} duration={500}>
-            Partnership
+            Products
           </Link>
           <Link to="section4" spy={true} smooth={true} duration={500}>
             Team
