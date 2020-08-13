@@ -93,11 +93,11 @@ const Map: React.FunctionComponent<{}> = () => {
         <LogoImage src={Icon} alt="Fractal Lending Icon" />
       </IconConatiner>
       <TitleContainer>
-        <h1>Introducing next gen peer to peer lending</h1>
+        <h1>Societal trust at the heart of our underwriting and risk management approach</h1>
         <h3>
-          We build and manage credit networks of lenders, borrowers, and trusting supporters 
+          We build and manage credit networks of lenders, borrowers, and trusting supporters
           <p></p>
-          Lenders are derisked through our cutting edge portfolio optimization AI. Borrowers bring supporters who co-lend, using societal trust to create credit access.
+          Our technology mitigates risk for investors while leveraging supporter trust to improve credit access for borrowers.
         </h3>
       </TitleContainer>
       <CardContainer>

@@ -148,11 +148,10 @@ const Map: React.FunctionComponent<{}> = () => {
         <canvas ref={(node) => (canvasNode = node)} />
         <DivContainer height={582}>
           <TextContainer>
-            <H1>Making Credit Accessible For All</H1>
+            <H1>Invest In Someone Good</H1>
             <Motif fillColor="#fff" />
             <H3>
-              Arboreum is building the future of credit for the digital economy
-              via AI-driven network-based lending technology.
+            AI Powered, Pro-Social Credit Unions
             </H3>
           </TextContainer>
         </DivContainer>
