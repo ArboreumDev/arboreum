@@ -93,7 +93,7 @@ const Map: React.FunctionComponent<{}> = () => {
         <LogoImage src={Icon} alt="Fractal Lending Icon" />
       </IconConatiner>
       <TitleContainer>
-        <h1>Societal trust at the heart of our underwriting and risk management approach</h1>
+        <h1>Societal trust at the heart of our risk assessment approach</h1>
         <h3>
           We build and manage credit networks of lenders, borrowers, and trusting supporters
           <p></p>
