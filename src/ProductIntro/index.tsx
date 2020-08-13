@@ -97,7 +97,7 @@ const Map: React.FunctionComponent<{}> = () => {
         <h3>
           We build and manage credit networks of lenders, borrowers, and trusting supporters
           <p></p>
-          Our technology mitigates risk for investors while leveraging supporter trust to improve credit access for borrowers.
+          Our technology mitigates risk for investors while leveraging supporter trust to improve credit access for borrowers
         </h3>
       </TitleContainer>
       <CardContainer>
@@ -111,7 +111,7 @@ const Map: React.FunctionComponent<{}> = () => {
               <CardTitle align="left">Request Pitchdeck</CardTitle>
               <P>
                 Learn more about the challenges we face, our novel solution, and
-                our overall business strategy.
+                our overall business strategy
               </P>
             </CardContent>
           </a>
@@ -125,7 +125,7 @@ const Map: React.FunctionComponent<{}> = () => {
             <CardContent>
               <CardTitle align="left">Request Whitepaper</CardTitle>
               <P>
-                Learn more about the concepts that power our solution. 
+                Learn more about the concepts that power our solution
               </P>
             </CardContent>
           </a>
