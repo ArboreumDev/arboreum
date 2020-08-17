@@ -63,7 +63,7 @@ const Map: React.FunctionComponent<{}> = () => {
          
             <br />
             <br />
-            Example applications of our technology include:
+            Our current product suite is:
           </h3>
         </TitleContainer>
         <ContentContainer>{PartnershipsCards}</ContentContainer>
