@@ -21,5 +21,13 @@
     "linkedin": "https://www.linkedin.com/in/nupur-joshi-167b6226/",
     "linkedinURL": "https://www.linkedin.com/in/nupur-joshi-167b6226/",
     "photo": "./assets/imgs/NJ.jpg"
+  },
+ {
+    "name": "Gaurav Paruthi",
+    "position": "Chief Technology Officer",
+    "description": "Gaurav was previously a R&D engineer at Kindred.AI, and holds a PhD in Human Computer Interaction from University of Michigan.",
+    "linkedin": "https://www.linkedin.com/in/gparuthi/",
+    "linkedinURL": "https://www.linkedin.com/in/gparuthi/",
+    "photo": "./assets/imgs/GP.jpg"
   }
 ]
