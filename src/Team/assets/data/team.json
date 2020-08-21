@@ -8,7 +8,7 @@
   },
   {
     "name": "Dr. Laurence E. Day",
-    "position": "Chief Technology Officer",
+    "position": "Chief Research Officer",
     "description": "Laurence was previously a risk analytics software engineer at Standard Chartered Bank specialising in functional programming, and holds a PhD in Computer Science from the University of Nottingham.",
     "linkedin": "https://www.linkedin.com/in/laurenceday/",
     "linkedinURL": "https://www.linkedin.com/in/laurenceday/",
@@ -25,9 +25,9 @@
  {
     "name": "Gaurav Paruthi",
     "position": "Chief Technology Officer",
-    "description": "Gaurav was previously a R&D engineer at Kindred.AI, and holds a PhD in Human Computer Interaction from University of Michigan.",
+    "description": "Gaurav was previously a R&D engineer at KindredAI, and holds a PhD in Human Computer Interaction from University of Michigan.",
     "linkedin": "https://www.linkedin.com/in/gparuthi/",
     "linkedinURL": "https://www.linkedin.com/in/gparuthi/",
-    "photo": "./assets/imgs/GP.jpg"
+    "photo": "./assets/imgs/GP.png"
   }
 ]

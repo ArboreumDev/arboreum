@@ -7,8 +7,8 @@ const DivContainer = styled.div`
   margin: 20px;
   background-color: #fff;
   padding: 20px 20px 40px 20px;
-  min-width: 240px;
-  flex: 1 1 calc(33% - 80px);
+  min-width: 140px;
+  flex: 1 1 calc(25% - 80px);
   font-size: 16px;
   box-shadow: 0 0 30px rgba(0, 0, 0, 0.11);
   &
