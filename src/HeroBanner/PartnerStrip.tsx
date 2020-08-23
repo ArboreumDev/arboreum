@@ -44,7 +44,7 @@ const Map: React.FunctionComponent<{}> = () => {
   });
   return (
     <PartnerStrip>
-      <P>Powering the next generation of FinTech</P>
+      <P style={{color:"#000000"}}>Powering the next generation of FinTech</P>
       <DivContainer>{partners}</DivContainer>
     </PartnerStrip>
   );

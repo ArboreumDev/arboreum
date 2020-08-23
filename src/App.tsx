@@ -9,6 +9,18 @@ import Features from "./Features/";
 import Partnership from "./Partnership/";
 import Team from "./Team/";
 import Footer from "./Footer/";
+import ColorNavbar from "./Components/Navbars/ColorNavbar";
+import FeatureOne from "./Components/Features/FeatureOne";
+import FeatureTwo from "./Components/Features/FeatureTwo";
+import FeatureThree from "./Components/Features/FeatureThree";
+import FeatureFour from "./Components/Features/FeatureFour";
+import FeatureFive from "./Components/Features/FeatureFive";
+import FeatureSix from "./Components/Features/FeatureSix";
+import SectionOne from "./Components/Sections/SectionOne";
+import SectionTwo from "./Components/Sections/SectionTwo";
+import SectionThree from "./Components/Sections/SectionThree";
+import SectionFour from "./Components/Sections/SectionFour";
+
 
 const GlobalStyles = createGlobalStyle`
   body {
@@ -71,26 +83,41 @@ const AppContainer = styled.div`
 
 function App() {
   return (
-    <AppContainer>
-      <GlobalStyles />
-      <Header />
-      <Announcement />
-      <HeroBanner />
-      <Element name="section1">
-        <ProductIntro />
-      </Element>
-      <Element name="section2">
-        <Features />
-      </Element>
-      <Element name="section3">
-        <Partnership />
-      </Element>
-      <Element name="section4">
-        <Team />
-      </Element>
-      <Footer />
-    </AppContainer>
+      <AppContainer>
+          <GlobalStyles />
+          <ColorNavbar />
+          <HeroBanner />
+          <Element name="section2">
+              <SectionTwo/>
+          </Element>
+          {/*<Element name="section1">
+              <ProductIntro />
+          </Element>*/}
+          <Element name="section4">
+              <FeatureTwo />
+          </Element>
+          <Element name="section3">
+              <FeatureSix />
+          </Element>
+          <FeatureFour />
+          {/*<Element name="section1">
+              <ProductIntro />
+          </Element>
+          <Element name="section2">
+              <Features />
+          </Element>
+          <Element name="section3">
+              <Partnership />
+          </Element>
+          <Element name="section4">
+              <Team />
+          </Element>*/}
+          <Footer />
+      </AppContainer>
   );
 }
 
+
+
+// @ts-ignore
 export default App;

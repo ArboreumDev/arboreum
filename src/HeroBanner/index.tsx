@@ -33,7 +33,7 @@ const TextContainer = styled.div`
   margin: 0 20px;
 `;
 
-/* 
+/*
 const ButtonBlock = styled.div`
   display: flex;
   justify-content: center;
