@@ -5,7 +5,7 @@
   },
   {
     "title": "Strong repayment mechanism",
-    "description": "As borrower's supporters are most exposed to a loan, there are significant social barriers to defaulting.",
+    "description": "As a borrower's supporters are most exposed to a loan, there are significant social barriers to defaulting.",
     "icon": "./assets/imgs/featureIcons/feature2.svg"
   },
   {
@@ -20,12 +20,12 @@
   },
   {
     "title": "Enables credit identity",
-    "description": "Formalizing informal lending behaviour enables creation of credit identity for borrowers excluded by traditional financial institutions.",
+    "description": "Formalising informal lending behaviour enables the creation of a credit identity for borrowers excluded by traditional financial institutions.",
     "icon": "./assets/imgs/featureIcons/feature5.svg"
   },
   {
     "title": "Very low transaction costs",
-    "description": "Algorithmic underwriting and DLT-enabled disbursal and collection processes ensure minuscule transaction costs.",
+    "description": "Algorithmic underwriting and DLT-enabled disbursal and collection processes ensure miniscule transaction costs.",
     "icon": "./assets/imgs/featureIcons/feature6.svg"
   }
 ]
