@@ -7,14 +7,6 @@
     "photo": "./assets/imgs/GS.jpg"
   },
   {
-    "name": "Dr. Laurence E. Day",
-    "position": "Chief Research Officer",
-    "description": "Laurence was previously a risk analytics software engineer at Standard Chartered Bank specialising in functional programming, and holds a PhD in Computer Science from the University of Nottingham.",
-    "linkedin": "https://www.linkedin.com/in/laurenceday/",
-    "linkedinURL": "https://www.linkedin.com/in/laurenceday/",
-    "photo": "./assets/imgs/LD.jpg"
-  },
-  {
     "name": "Nupur Joshi",
     "position": "Chief Operations Officer",
     "description": "Nupur was previously a McKinsey & Company multi-stakeholder strategy and operational transformation consultant, and holds an MBA from Wharton.",
